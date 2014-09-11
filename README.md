@@ -3,6 +3,6 @@ First_Repo
 
 My first repo.
 
-My first contribuition.
+My first contribution.
 
 My second contribution.
